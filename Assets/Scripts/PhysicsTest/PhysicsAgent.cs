@@ -11,7 +11,7 @@ public class PhysicsAgent : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
     }
 
-    private void FixedUpdate()
+    private void Update()
     {
         if (TargetPos.TryGetTargetPos(out var pos))
         {

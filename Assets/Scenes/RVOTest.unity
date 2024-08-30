@@ -230,8 +230,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbf597ef81d9d7f448143316e38bc107, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  col: 20
-  row: 20
+  col: 40
+  row: 40
   prefab: {fileID: 573628157963788908, guid: 023289a8eb3ac53479719e25b6e5fb0c, type: 3}
 --- !u!114 &519420034
 MonoBehaviour:
