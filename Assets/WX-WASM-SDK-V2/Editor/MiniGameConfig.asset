@@ -15,8 +15,8 @@ MonoBehaviour:
   ProjectConf:
     projectName: "\u6D4B\u8BD5\u6027\u80FD"
     Appid: wx0dc4c8a63890bf9a
-    CDN: 
-    assetLoadType: 1
+    CDN: http://127.0.0.1/cdn/webgl
+    assetLoadType: 0
     compressDataPackage: 0
     VideoUrl: 
     DST: F:/GitHub/WXPerformanceTesting/Build
@@ -53,7 +53,7 @@ MonoBehaviour:
     profilingFuncs: 1
     Webgl2: 0
     fbslim: 0
-    DeleteStreamingAssets: 1
+    DeleteStreamingAssets: 0
     ProfilingMemory: 0
     CleanBuild: 0
     CustomNodePath: 
